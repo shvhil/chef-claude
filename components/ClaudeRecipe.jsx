@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 // --- Hugging Face Config ---
 const HF_API_KEY = import.meta.env.VITE_HUGGING_FACE_API_KEY;
 const API_URL =
-  "https://api-inference.huggingface.co/models/google/gemma-3-1b-it"; // Or choose another suitable model
+  "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1"; // Or choose another suitable model
 // --- End Hugging Face Config ---
 
 function parseRecipeResponse(text) {
