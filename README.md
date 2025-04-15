@@ -4,4 +4,4 @@ Testing out GPT API calls to generate recipe from a given set of ingredients.
 
 – Experimental Project –
 
-Demo Link: https://chef-claude-dun.vercel.app
+Demo Link: https://chef-claude-beta.vercel.app
